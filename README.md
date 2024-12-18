@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Tue Nguyen</h1>
-<h3 align="center">A passionate developer from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Danh Nguyen</h1>
+<h3 align="center">A passionate pentester from Vietnam</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=idozii&label=Profile%20views&color=0e75b6&style=flat" alt="idozii" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=idozii&label=Profile%20views&color=0e75b6&style=flat" alt="darealDanh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idozii" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darealDanh" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
