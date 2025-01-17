@@ -23,36 +23,14 @@
 ## Categories
 
 #### GitHub Actions 🤖
-- [CONFIG](https://github.com/idozii/idozii)
-
-#### Game Mode 🚀
-- [SHERLOCK HOLMES](https://github.com/idozii/BTL2)
-- [FLAPPY BIRD](https://github.com/idozii/FLAPPY_BIRD)
-- [TURTLE](https://github.com/idozii/TURTLE)
-- [TOUCH SCREEN](https://github.com/idozii/TOUCH_SCREEN)
-- [SNAKE GAME](https://github.com/idozii/SNAKEGAME)
+- [CONFIG](https://github.com/darealDanh/darealDanh)
 
 #### Code Mode 👨🏽‍💻
-- [DATA STRUCTURE AND ALGORITHMS](https://github.com/idozii/DSA)
-- [MY PAGE](https://github.com/idozii/MY_PAGE_PROJECT)
-- [DISCRETE MATHEMATICS](https://github.com/idozii/DSC)
-- [AI PROJECT](https://github.com/idozii/assignment2)
-- [CONVOLUTION OPERATION](https://github.com/idozii/MIPS)
-- [BLOCKCHAIN TESTING](https://github.com/idozii/BLOCKCHAIN)
 
 #### Simple but Innovative Ones 🤗
-- [WEATHER APP](https://github.com/idozii/WEATHER_APP)
-- [QR CODE](https://github.com/idozii/QR_CODE)
-- [SOLAR SYSTEM](https://github.com/idozii/SOLAR_SYSTEM)
-- [SIGN IN FORM](https://github.com/idozii/SIGN_IN-FORM)
-- [ANIMATION EFFECTS](https://github.com/idozii/ANIMATION_EFFECTS)
-- [ANIMATION SLIDING PAGE](https://github.com/idozii/ANIMATION_SLIDING-PAGE)
-- [INTERNET SPEEDTEST](https://github.com/idozii/INTERSPEEDTEST)
-- [URL SHORTENER](https://github.com/idozii/URL-SHORTENER)
-- [CALCULATOR APP](https://github.com/idozii/CALCULATOR-APP)
 
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [idozii](https://www.facebook.com/nhattue.nguyenduy) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [darealDanh](https://www.facebook.com/darealHDanh) has waived all copyright and related or neighboring rights to this work.
